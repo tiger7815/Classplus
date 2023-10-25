@@ -6,7 +6,7 @@ API_HASH = os.environ.get("API_HASH", "e73c6f2e8842acdeb8bf8c18628bb772")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6458939607:AAFoGSkcqvfS7W4F1_o0jjbAH-Vx_qWkBSI")
 
-PASS_DB = int(os.environ.get("PASS_DB", "721"))
+PASS_DB = int(os.environ.get("PASS_DB", "7210"))
 
 OWNER = int(os.environ.get("OWNER", 1700825627))
 
